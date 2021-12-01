@@ -1,6 +1,6 @@
 # spotify_ui
 
-A new Flutter application.
+A new Flutter UI
 
 ## Getting Started
 
